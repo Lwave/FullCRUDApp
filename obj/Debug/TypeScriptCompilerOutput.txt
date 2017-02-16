@@ -1,0 +1,6 @@
+C:\projects\ASP.NET\CRUD\src\CRUD\wwwroot\ngApp\app.js
+C:\projects\ASP.NET\CRUD\src\CRUD\wwwroot\ngApp\app.js.map
+C:\projects\ASP.NET\CRUD\src\CRUD\wwwroot\ngApp\controllers\controllers.js
+C:\projects\ASP.NET\CRUD\src\CRUD\wwwroot\ngApp\controllers\controllers.js.map
+C:\projects\ASP.NET\CRUD\src\CRUD\wwwroot\ngApp\services\services.js
+C:\projects\ASP.NET\CRUD\src\CRUD\wwwroot\ngApp\services\services.js.map
